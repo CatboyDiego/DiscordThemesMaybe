@@ -21,7 +21,7 @@
  * @var checkbox			settingsicons_s			"User Settings Icons"					1
  * @var text				font_s				"General Font"						"gg sans", "Noto Sans"
  * @var text				textshadow_s			"Text Shadow: [default] = rgba(0, 0, 0, 0)"		rgba(0, 0, 0, 0)
- * @var text				background_s			"Background: Can be an Image/Color/Gradient"		url(https://raw.githack.com/CatboyDiego/DiscordThemesMaybe/main/Themes/Images/image_2024-06-12_221949607.jpg)
+ * @var text				background_s			"Background: Can be an Image/Color/Gradient"		url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg)
  * @var select				backgroundposition_s		"Background Position"					["center*", "top", "right", "bottom", "left"]
  * @var select				backgroundsize_s		"Background Size"					["cover*", "contain", "auto"]
  * @var range				backgroundblur_s		"Background Blur"					[0, 0, 100, 1]
@@ -58,7 +58,7 @@
 	--font:				"gg sans", "Noto Sans";		/* font used in most places														*/
 	--textshadow:			transparent;			/* default: transparent				(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)		*/
 	
-	--background:			url(https://raw.githack.com/CatboyDiego/DiscordThemesMaybe/main/Themes/Images/image_2024-06-12_221949607.jpg);	/* general background image					*/
+	--background:			url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg);	/* general background image					*/
 	--backgroundposition:		center;				/* default: center				(position of background - values: [center/top/right/bottom/left])			*/
 	--backgroundsize:		cover;				/* default: cover				(sizefit of background - values: [cover/contain/auto])					*/
 	--backgroundblur:		0;				/* default: 0					(blur in px, only works when --background is set to an image)				*/

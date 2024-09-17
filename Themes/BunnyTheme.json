@@ -1,10 +1,10 @@
 {
-  "name": "Night Life (Darker)",
+  "name": "Night Rebirth",
   "version": "1.0",
   "description": "Default theme with darker colors and a bit of purple accent",
   "authors": [
     {
-      "name": "S9Teen&Diego",
+      "name": "Diego",
       "id": "461299396844191745"
     }
   ],
@@ -29,20 +29,18 @@
     "CHAT_BACKGROUND": ["#300000"],
     "TEXT_DANGER": ["#A12829"],
     "TEXT_NORMAL": ["#DFE2E6"]
-  }
-}
-},
+  },
   "rawColors": {
     "BRAND_260": "#FAE6FA",
     "BRAND_360": "#8A80FF",
     "BRAND_560": "#4719C4",
     "GREEN_360": "#6243FF",
     "PRIMARY_230": "#8A80FF",
-    "PRIMARY_600": "#121212",
-    "PRIMARY_630": "#141414",
+    "PRIMARY_600": "#300000",
+    "PRIMARY_630": "#000000",
     "PRIMARY_660": "#1F1F1F",
-    "PRIMARY_700": "#1A1A1A",
-    "PRIMARY_800": "#121212",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#300000",
     "RED_400": "#C70C4D",
     "WHITE_500": "#ffffff",
     "YELLOW_300": "#411299"

@@ -1,7 +1,7 @@
 {
   "name": "Night Rebirth",
-  "version": "1.0",
-  "description": "Default theme with darker colors and a bit of purple accent",
+  "version": "2.0",
+  "description": "Fork of Night Life (Dark) to be darker",
   "authors": [
     {
       "name": "Diego",
@@ -13,20 +13,20 @@
     "INTERACTIVE_NORMAL": ["#7059B3"],
     "INTERACTIVE_MUTED": ["#4B458A"],
     "BACKGROUND_ACCENT": ["#000000"],
-    "BACKGROUND_MENTIONED": ["#300000"],
+    "BACKGROUND_MENTIONED": ["#010101"],
     "BACKGROUND_MESSAGE_HOVER": ["#000000"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#300000"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
-    "BACKGROUND_PRIMARY": ["#300000"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#010101"],
+    "BACKGROUND_PRIMARY": ["#000000"],
     "BACKGROUND_SECONDARY": ["#000000"],
-    "BACKGROUND_SECONDARY_ALT": ["#300000"],
+    "BACKGROUND_SECONDARY_ALT": ["#000000"],
     "BACKGROUND_MODIFIER_ACCENT": ["#000000"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#300000"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#000000"],
     "BACKGROUND_MODIFIER_HOVER": ["#000000"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#300000"],
-    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#000000"],
+    "BACKGROUND_TERTIARY": ["#010101"],
     "CHANNEL_ICON": ["#756CD9"],
-    "CHAT_BACKGROUND": ["#300000"],
+    "CHAT_BACKGROUND": ["#000000"],
     "TEXT_DANGER": ["#A12829"],
     "TEXT_NORMAL": ["#DFE2E6"]
   },
@@ -36,14 +36,14 @@
     "BRAND_560": "#4719C4",
     "GREEN_360": "#6243FF",
     "PRIMARY_230": "#8A80FF",
-    "PRIMARY_600": "#300000",
+    "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
     "PRIMARY_660": "#1F1F1F",
     "PRIMARY_700": "#000000",
-    "PRIMARY_800": "#300000",
+    "PRIMARY_800": "#000000",
     "RED_400": "#C70C4D",
     "WHITE_500": "#ffffff",
-    "YELLOW_300": "#411299"
+    "YELLOW_300": "#008080"
   },
   "spec": 2
 }
